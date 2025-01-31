@@ -1,0 +1,2 @@
+Celular|1500|Eletronicos|Joao|Caio|20|31/01/2025
+Geladeira|3000|Eletronicos|Daniele|Maria|2|31/01/2025
